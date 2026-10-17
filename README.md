@@ -1,6 +1,6 @@
-# Overlord (working title)
+# Smallfolk
 
-A procedural world game for the browser. You are the overlord of a world that starts from nothing: a handful of
+Smallfolk is a procedural world game for the browser. You are the overlord of a world that starts from nothing: a handful of
 people in caveman times, on a seeded, generated island. You set the direction, make the economic decisions, pick
 sides, intervene in crises and watch what your choices do to people as the settlement grows all the way to a city.
 
